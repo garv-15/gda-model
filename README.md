@@ -12,6 +12,8 @@ TransGDA is built with:
 ## Reproducing Results
 
 ### Setup
+### 
+Extract Archive.zip for dataset into project's root directory 
 
 #### Creating a virtual environment 
 ```bash
